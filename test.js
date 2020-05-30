@@ -1,5 +1,6 @@
 const temp={
   name:'TNT',
-  age:20,
-  phone:09034034903
+  age:30,
+  phone:09034034903,
+  address:'TPHCM'
 }
